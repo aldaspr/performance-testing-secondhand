@@ -1,0 +1,901 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1702967869230,810,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,569,1545,9,9,https://market-final-project.binaracademy.org/auth/register,810,0,52
+1702967869439,604,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,569,1500,9,9,https://market-final-project.binaracademy.org/auth/register,604,0,40
+1702967869338,720,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,569,1509,9,9,https://market-final-project.binaracademy.org/auth/register,720,0,46
+1702967869539,519,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,569,1554,9,9,https://market-final-project.binaracademy.org/auth/register,519,0,39
+1702967870041,320,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,320,0,0
+1702967870043,635,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,635,0,0
+1702967870058,699,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,699,0,0
+1702967870058,778,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,778,0,0
+1702967869842,1153,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,569,1527,10,10,https://market-final-project.binaracademy.org/auth/register,1153,0,42
+1702967869741,1256,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,569,1536,10,10,https://market-final-project.binaracademy.org/auth/register,1256,0,43
+1702967869640,1357,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,569,1500,10,10,https://market-final-project.binaracademy.org/auth/register,1357,0,40
+1702967869926,1073,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,569,1491,10,10,https://market-final-project.binaracademy.org/auth/register,1073,0,45
+1702967870022,978,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,569,1536,10,10,https://market-final-project.binaracademy.org/auth/register,978,0,46
+1702967870124,877,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,569,1545,10,10,https://market-final-project.binaracademy.org/auth/register,877,0,40
+1702967870997,552,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,552,0,0
+1702967870999,629,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,629,0,0
+1702967871000,706,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,706,0,0
+1702967870998,789,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,789,0,0
+1702967870995,873,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,873,0,0
+1702967871001,944,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,944,0,0
+1702967870361,1587,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,567,1543,10,10,https://market-final-project.binaracademy.org/auth/register,1587,0,0
+1702967870758,1190,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,567,1516,10,10,https://market-final-project.binaracademy.org/auth/register,1190,0,0
+1702967870836,1113,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,567,1498,10,10,https://market-final-project.binaracademy.org/auth/register,1113,0,0
+1702967870678,1272,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,567,1507,10,10,https://market-final-project.binaracademy.org/auth/register,1272,0,0
+1702967871948,718,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,718,0,0
+1702967871948,797,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,797,0,0
+1702967871950,874,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,874,0,0
+1702967871950,953,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,953,0,0
+1702967871707,1196,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,567,1534,10,10,https://market-final-project.binaracademy.org/auth/register,1196,0,0
+1702967871946,958,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,567,1516,10,10,https://market-final-project.binaracademy.org/auth/register,958,0,0
+1702967871549,1356,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,567,1570,10,10,https://market-final-project.binaracademy.org/auth/register,1356,0,0
+1702967871628,1278,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,567,1543,10,10,https://market-final-project.binaracademy.org/auth/register,1278,0,0
+1702967871788,1119,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,567,1525,10,10,https://market-final-project.binaracademy.org/auth/register,1119,0,0
+1702967871869,1039,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,567,1534,10,10,https://market-final-project.binaracademy.org/auth/register,1039,0,0
+1702967872666,253,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,253,0,0
+1702967872746,176,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,176,0,0
+1702967872825,102,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,102,0,0
+1702967872904,250,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,250,0,0
+1702967872910,323,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,323,0,0
+1702967872909,401,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,401,0,0
+1702967872905,486,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,486,0,0
+1702967872907,563,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,563,0,0
+1702967872906,643,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,643,0,0
+1702967872904,647,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,647,0,0
+1702967872920,637,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,637,0,0
+1702967872923,639,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,639,0,0
+1702967872927,635,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,635,0,0
+1702967873155,424,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,424,0,0
+1702967873233,354,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,354,0,0
+1702967873311,276,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,276,0,0
+1702967873470,117,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,117,0,0
+1702967873392,195,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,195,0,0
+1702967873549,42,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,42,0,0
+1702967873552,39,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,39,0,0
+1702967873579,53,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,53,0,0
+1702967873587,55,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,55,0,0
+1702967873587,55,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,55,0,0
+1702967873587,55,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,55,0,0
+1702967873587,55,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,55,0,0
+1702967873591,64,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,64,0,0
+1702967873562,6648,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,674,7203,10,10,https://market-final-project.binaracademy.org/seller/product,6648,0,0
+1702967873562,6661,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,674,7211,10,10,https://market-final-project.binaracademy.org/seller/product,6661,0,0
+1702967873558,6669,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,674,7259,10,10,https://market-final-project.binaracademy.org/seller/product,6669,0,0
+1702967873642,6601,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,674,7267,10,10,https://market-final-project.binaracademy.org/seller/product,6601,0,0
+1702967873591,6654,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,674,7251,10,10,https://market-final-project.binaracademy.org/seller/product,6654,0,0
+1702967873632,6617,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,674,7275,10,10,https://market-final-project.binaracademy.org/seller/product,6617,0,0
+1702967873642,6635,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,674,7283,10,10,https://market-final-project.binaracademy.org/seller/product,6635,0,0
+1702967873642,6646,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,674,7219,10,10,https://market-final-project.binaracademy.org/seller/product,6646,0,0
+1702967873642,6646,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,674,7275,10,10,https://market-final-project.binaracademy.org/seller/product,6646,0,0
+1702967873655,6633,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,674,7275,10,10,https://market-final-project.binaracademy.org/seller/product,6633,0,0
+1702967880224,2698,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,2698,0,0
+1702967880210,2713,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,2713,0,0
+1702967880243,2681,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,2681,0,0
+1702967880245,2681,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,2681,0,0
+1702967880227,2701,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,2701,0,0
+1702967880249,2778,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,2778,0,0
+1702967880289,2749,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,2749,0,0
+1702967880277,2843,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,2843,0,0
+1702967880289,2834,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,2834,0,0
+1702967880289,2845,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,2845,0,0
+1702967882926,951,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110367,951,0,0
+1702967882923,986,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110363,986,0,0
+1702967882922,987,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110364,987,0,0
+1702967883038,871,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110372,871,0,0
+1702967882924,985,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110366,985,0,0
+1702967882928,981,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110365,981,0,0
+1702967883027,882,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110368,882,0,0
+1702967883120,802,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110369,802,0,0
+1702967883123,799,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110370,799,0,0
+1702967883134,791,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110371,791,0,0
+1702967883877,223,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,669,7281,10,10,https://market-final-project.binaracademy.org/seller/product/110367,223,0,0
+1702967883915,1011,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,669,7217,10,10,https://market-final-project.binaracademy.org/seller/product/110366,1011,0,0
+1702967884100,859,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,859,0,0
+1702967884926,741,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,741,0,0
+1702967883915,1865,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,669,7289,10,10,https://market-final-project.binaracademy.org/seller/product/110364,1865,0,0
+1702967883915,2067,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,669,7265,10,10,https://market-final-project.binaracademy.org/seller/product/110372,2067,0,0
+1702967883915,2457,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,669,7257,10,10,https://market-final-project.binaracademy.org/seller/product/110365,2457,0,0
+1702967883915,2459,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,669,7225,10,10,https://market-final-project.binaracademy.org/seller/product/110363,2459,0,0
+1702967883925,2450,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,669,7289,10,10,https://market-final-project.binaracademy.org/seller/product/110371,2450,0,0
+1702967883923,2456,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,669,7217,10,10,https://market-final-project.binaracademy.org/seller/product/110370,2456,0,0
+1702967884959,1423,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110367,1423,0,0
+1702967883915,2479,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,669,7281,10,10,https://market-final-project.binaracademy.org/seller/product/110368,2479,0,0
+1702967883922,2473,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,669,7233,10,10,https://market-final-project.binaracademy.org/seller/product/110369,2473,0,0
+1702967885667,738,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110366,738,0,0
+1702967885982,3958,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,3958,0,0
+1702967885780,4163,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,4163,0,0
+1702967886375,3795,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,3795,0,0
+1702967886373,3808,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,3808,0,0
+1702967886380,4056,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,4056,0,0
+1702967886375,4091,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,4091,0,0
+1702967889940,1078,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110372,1078,0,0
+1702967886394,5110,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,5110,0,0
+1702967886396,5470,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,5470,0,0
+1702967889944,1927,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110364,1927,0,0
+1702967890170,1701,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110371,1701,0,0
+1702967890181,1692,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110365,1692,0,0
+1702967890436,1450,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110370,1450,0,0
+1702967890466,1442,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110363,1442,0,0
+1702967891504,438,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110368,438,0,0
+1702967886382,5574,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,5574,0,0
+1702967891866,150,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110369,150,0,0
+1702967886405,5806,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,5806,0,0
+1702967891957,290,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,290,0,0
+1702967891018,1328,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1328,0,0
+1702967891871,484,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,484,0,0
+1702967891908,453,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,453,0,0
+1702967891873,492,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,492,0,0
+1702967891871,495,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,495,0,0
+1702967891942,427,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,427,0,0
+1702967892211,194,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,194,0,0
+1702967892248,292,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56713,292,0,0
+1702967892016,530,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,530,0,0
+1702967892365,232,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,232,0,0
+1702967891887,710,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,710,0,0
+1702967892346,271,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,271,0,0
+1702967892356,261,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,261,0,0
+1702967892361,341,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,341,0,0
+1702967892405,425,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56714,425,0,0
+1702967892369,473,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,473,0,0
+1702967892597,284,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56718,284,0,0
+1702967892546,342,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,342,0,0
+1702967892367,536,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,536,0,0
+1702967892597,338,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,338,0,0
+1702967892617,337,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56715,337,0,0
+1702967892702,368,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56717,368,0,0
+1702967892842,280,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56720,280,0,0
+1702967892617,509,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56716,509,0,0
+1702967892541,642,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56713,642,0,0
+1702967892889,326,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56721,326,0,0
+1702967892903,319,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56719,319,0,0
+1702967892935,372,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56722,372,0,0
+1702967892830,552,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56714,552,0,0
+1702967892882,507,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56718,507,0,0
+1702967893070,348,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56717,348,0,0
+1702967893122,298,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56720,298,0,0
+1702967892954,472,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56715,472,0,0
+1702967893126,342,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56716,342,0,0
+1702967893183,444,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,660,644,10,10,https://market-final-project.binaracademy.org/seller/order/56713,444,0,0
+1702967893215,447,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56721,447,0,0
+1702967893222,445,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56719,445,0,0
+1702967893307,363,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56722,363,0,0
+1702967893382,312,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,660,632,10,10,https://market-final-project.binaracademy.org/seller/order/56714,312,0,0
+1702967893418,278,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,660,653,10,10,https://market-final-project.binaracademy.org/seller/order/56717,278,0,0
+1702967893420,442,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,660,629,10,10,https://market-final-project.binaracademy.org/seller/order/56720,442,0,0
+1702967893427,502,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,660,650,10,10,https://market-final-project.binaracademy.org/seller/order/56715,502,0,0
+1702967893389,575,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,660,629,10,10,https://market-final-project.binaracademy.org/seller/order/56718,575,0,0
+1702967893468,500,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,660,650,10,10,https://market-final-project.binaracademy.org/seller/order/56716,500,0,0
+1702967893662,308,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,660,647,10,10,https://market-final-project.binaracademy.org/seller/order/56721,308,0,0
+1702967893628,352,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,312,477,10,10,https://market-final-project.binaracademy.org/seller/product/110367,352,0,0
+1702967893667,341,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,660,656,10,10,https://market-final-project.binaracademy.org/seller/order/56719,341,0,0
+1702967893694,482,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,312,489,10,10,https://market-final-project.binaracademy.org/seller/product/110366,482,0,0
+1702967893696,533,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,312,479,10,10,https://market-final-project.binaracademy.org/seller/product/110363,533,0,0
+1702967893862,668,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,312,469,10,10,https://market-final-project.binaracademy.org/seller/product/110368,668,0,0
+1702967893929,605,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,312,473,10,10,https://market-final-project.binaracademy.org/seller/product/110372,605,0,0
+1702967894229,309,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,569,1572,10,10,https://market-final-project.binaracademy.org/auth/register,309,0,0
+1702967893980,558,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,569,1527,10,10,https://market-final-project.binaracademy.org/auth/register,558,0,0
+1702967894177,367,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,569,1563,10,10,https://market-final-project.binaracademy.org/auth/register,367,0,0
+1702967893964,581,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,312,477,10,10,https://market-final-project.binaracademy.org/seller/product/110365,581,0,0
+1702967893670,877,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,660,629,10,10,https://market-final-project.binaracademy.org/seller/order/56722,877,0,0
+1702967893968,581,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,312,489,10,10,https://market-final-project.binaracademy.org/seller/product/110371,581,0,0
+1702967893970,611,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,312,477,10,10,https://market-final-project.binaracademy.org/seller/product/110369,611,0,0
+1702967894008,598,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,312,477,10,10,https://market-final-project.binaracademy.org/seller/product/110364,598,0,0
+1702967894539,244,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,244,0,0
+1702967894539,557,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,557,0,0
+1702967894545,631,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,631,0,0
+1702967894545,873,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,569,1491,10,10,https://market-final-project.binaracademy.org/auth/register,873,0,0
+1702967894531,888,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,569,1527,10,10,https://market-final-project.binaracademy.org/auth/register,888,0,0
+1702967894534,885,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,569,1500,10,10,https://market-final-project.binaracademy.org/auth/register,885,0,0
+1702967894550,872,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,569,1482,10,10,https://market-final-project.binaracademy.org/auth/register,872,0,0
+1702967894581,841,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,569,1572,10,10,https://market-final-project.binaracademy.org/auth/register,841,0,0
+1702967894607,825,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,569,1518,10,10,https://market-final-project.binaracademy.org/auth/register,825,0,0
+1702967895420,307,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,307,0,0
+1702967895418,469,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,469,0,0
+1702967895419,625,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,625,0,0
+1702967895422,702,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,702,0,0
+1702967895422,778,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,778,0,0
+1702967895432,846,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,846,0,0
+1702967894547,1732,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,312,479,10,10,https://market-final-project.binaracademy.org/seller/product/110370,1732,0,0
+1702967894783,1496,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,567,1498,10,10,https://market-final-project.binaracademy.org/auth/register,1496,0,0
+1702967895176,1106,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,567,1534,10,10,https://market-final-project.binaracademy.org/auth/register,1106,0,0
+1702967895096,1186,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,567,1489,10,10,https://market-final-project.binaracademy.org/auth/register,1186,0,0
+1702967896282,602,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,602,0,0
+1702967896279,760,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,760,0,0
+1702967896282,914,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,914,0,0
+1702967895728,1469,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,567,1480,10,10,https://market-final-project.binaracademy.org/auth/register,1469,0,0
+1702967896044,1155,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,567,1489,10,10,https://market-final-project.binaracademy.org/auth/register,1155,0,0
+1702967895887,1313,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,567,1489,10,10,https://market-final-project.binaracademy.org/auth/register,1313,0,0
+1702967896125,1075,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,567,1543,10,10,https://market-final-project.binaracademy.org/auth/register,1075,0,0
+1702967896278,924,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,567,1480,10,10,https://market-final-project.binaracademy.org/auth/register,924,0,0
+1702967896279,923,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,569,1572,10,10,https://market-final-project.binaracademy.org/auth/register,923,0,0
+1702967896201,1002,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,567,1480,10,10,https://market-final-project.binaracademy.org/auth/register,1002,0,0
+1702967896885,325,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,325,0,0
+1702967897040,171,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,171,0,0
+1702967897196,22,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,22,0,0
+1702967897198,259,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,259,0,0
+1702967897203,334,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,334,0,0
+1702967897201,414,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,414,0,0
+1702967897200,497,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,497,0,0
+1702967897200,572,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,572,0,0
+1702967897203,649,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,649,0,0
+1702967897203,724,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,724,0,0
+1702967897211,719,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,719,0,0
+1702967897211,719,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,719,0,0
+1702967897218,716,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,716,0,0
+1702967897458,486,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,486,0,0
+1702967897851,94,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,94,0,0
+1702967897616,330,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,330,0,0
+1702967897697,253,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,253,0,0
+1702967897800,154,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,154,0,0
+1702967897926,28,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,28,0,0
+1702967897943,55,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,54,0,0
+1702967897945,57,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,57,0,0
+1702967897953,50,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,50,0,0
+1702967897945,60,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,60,0,0
+1702967897949,56,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,56,0,0
+1702967897955,51,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,51,0,0
+1702967897538,573,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,567,1543,10,10,https://market-final-project.binaracademy.org/auth/register,573,0,0
+1702967898110,2019,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,2019,0,0
+1702967897929,2592,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,674,7211,10,10,https://market-final-project.binaracademy.org/seller/product,2592,0,0
+1702967897929,2603,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,674,7227,10,10,https://market-final-project.binaracademy.org/seller/product,2603,0,0
+1702967897933,2601,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,674,7227,10,10,https://market-final-project.binaracademy.org/seller/product,2601,0,0
+1702967900129,411,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,411,0,0
+1702967897998,2552,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,674,7251,10,10,https://market-final-project.binaracademy.org/seller/product,2552,0,0
+1702967898002,2553,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,674,7235,10,10,https://market-final-project.binaracademy.org/seller/product,2553,0,0
+1702967898003,2561,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,674,7275,10,10,https://market-final-project.binaracademy.org/seller/product,2561,0,0
+1702967898006,2568,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,674,7243,10,10,https://market-final-project.binaracademy.org/seller/product,2568,0,0
+1702967898006,2569,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,674,7219,10,10,https://market-final-project.binaracademy.org/seller/product,2569,0,0
+1702967900540,40,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,40,0,0
+1702967898006,2591,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,674,7251,10,10,https://market-final-project.binaracademy.org/seller/product,2591,0,0
+1702967900533,3340,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,3340,0,0
+1702967900556,3320,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,3320,0,0
+1702967900521,3394,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,3394,0,0
+1702967900534,3385,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,3385,0,0
+1702967900550,3390,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,3390,0,0
+1702967900575,3446,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,3446,0,0
+1702967900565,3493,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,3493,0,0
+1702967900597,3924,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,3924,0,0
+1702967900576,3948,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,3948,0,0
+1702967903919,1674,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110375,1674,0,0
+1702967903874,1723,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110374,1723,0,0
+1702967903877,1728,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110377,1728,0,0
+1702967900581,5024,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,674,7211,10,10,https://market-final-project.binaracademy.org/seller/product,5024,0,0
+1702967903940,1672,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110376,1672,0,0
+1702967903915,1697,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110373,1697,0,0
+1702967904059,1561,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110378,1561,0,0
+1702967904021,1604,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110380,1604,0,0
+1702967904521,1565,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110381,1565,0,0
+1702967904525,1562,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110379,1562,0,0
+1702967905606,817,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,817,0,0
+1702967905594,915,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,669,7281,10,10,https://market-final-project.binaracademy.org/seller/product/110375,915,0,0
+1702967905606,905,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,669,7241,10,10,https://market-final-project.binaracademy.org/seller/product/110377,904,0,0
+1702967905598,935,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,669,7241,10,10,https://market-final-project.binaracademy.org/seller/product/110374,935,0,0
+1702967905612,1236,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,669,7209,10,10,https://market-final-project.binaracademy.org/seller/product/110376,1235,0,0
+1702967905612,1241,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,669,7225,10,10,https://market-final-project.binaracademy.org/seller/product/110373,1241,0,0
+1702967905620,1234,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,669,7217,10,10,https://market-final-project.binaracademy.org/seller/product/110378,1234,0,0
+1702967905626,1240,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,669,7289,10,10,https://market-final-project.binaracademy.org/seller/product/110380,1240,0,0
+1702967906509,1196,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,1196,0,0
+1702967906511,2055,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,2055,0,0
+1702967906533,2060,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,2060,0,0
+1702967906423,2210,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110382,2210,0,0
+1702967906848,3236,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,3236,0,0
+1702967906854,3235,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,3235,0,0
+1702967906855,3756,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,3756,0,0
+1702967906866,3749,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,3749,0,0
+1702967907706,2911,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110375,2911,0,0
+1702967908568,2296,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110377,2296,0,0
+1702967908595,2271,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110374,2271,0,0
+1702967906087,4896,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,669,7273,10,10,https://market-final-project.binaracademy.org/seller/product/110381,4896,0,0
+1702967906088,4912,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,669,7249,10,10,https://market-final-project.binaracademy.org/seller/product/110379,4912,0,0
+1702967910090,947,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110373,947,0,0
+1702967910616,430,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110380,430,0,0
+1702967910613,441,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110378,441,0,0
+1702967910085,973,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110376,973,0,0
+1702967910985,1542,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,1542,0,0
+1702967911002,1529,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,1529,0,0
+1702967908634,4120,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,669,7257,10,10,https://market-final-project.binaracademy.org/seller/product/110382,4120,0,0
+1702967912529,260,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110381,260,0,0
+1702967912532,263,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110379,263,0,0
+1702967910618,2206,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,2206,0,0
+1702967910867,1971,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1971,0,0
+1702967910865,1975,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1975,0,0
+1702967911037,1805,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1805,0,0
+1702967911058,1789,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1789,0,0
+1702967911047,1801,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1801,0,0
+1702967911054,1797,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1797,0,0
+1702967912754,682,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,682,0,0
+1702967912825,960,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,960,0,0
+1702967912840,976,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,976,0,0
+1702967912838,981,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,981,0,0
+1702967912849,974,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,974,0,0
+1702967912848,977,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,977,0,0
+1702967912843,984,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,984,0,0
+1702967912852,995,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,995,0,0
+1702967913436,412,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110382,411,0,0
+1702967913786,319,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56723,319,0,0
+1702967912790,1315,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1315,0,0
+1702967912795,1311,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1311,0,0
+1702967913823,284,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56727,284,0,0
+1702967913819,288,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56724,288,0,0
+1702967913817,290,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56725,290,0,0
+1702967913828,297,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56726,296,0,0
+1702967913848,285,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56729,285,0,0
+1702967913826,329,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56728,329,0,0
+1702967914107,321,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,321,0,0
+1702967914106,370,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,370,0,0
+1702967913848,662,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,661,0,0
+1702967914108,421,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56725,421,0,0
+1702967914106,423,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56723,423,0,0
+1702967914107,430,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56727,430,0,0
+1702967914134,417,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56729,417,0,0
+1702967914125,433,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56726,433,0,0
+1702967914108,452,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56724,452,0,0
+1702967914477,326,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56731,326,0,0
+1702967914429,389,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56730,389,0,0
+1702967914510,313,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,313,0,0
+1702967914155,671,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56728,671,0,0
+1702967914538,464,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,660,635,10,10,https://market-final-project.binaracademy.org/seller/order/56727,464,0,0
+1702967914530,472,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,660,659,10,10,https://market-final-project.binaracademy.org/seller/order/56723,472,0,0
+1702967914530,480,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,660,659,10,10,https://market-final-project.binaracademy.org/seller/order/56725,480,0,0
+1702967914824,205,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56732,205,0,0
+1702967914803,230,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56731,230,0,0
+1702967914552,481,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,660,638,10,10,https://market-final-project.binaracademy.org/seller/order/56729,481,0,0
+1702967914558,477,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,660,629,10,10,https://market-final-project.binaracademy.org/seller/order/56726,477,0,0
+1702967914560,480,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,660,632,10,10,https://market-final-project.binaracademy.org/seller/order/56724,480,0,0
+1702967914819,257,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56730,257,0,0
+1702967914827,523,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,660,650,10,10,https://market-final-project.binaracademy.org/seller/order/56728,523,0,0
+1702967915029,398,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56732,398,0,0
+1702967915003,433,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,312,479,10,10,https://market-final-project.binaracademy.org/seller/product/110380,433,0,0
+1702967915011,460,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,312,473,10,10,https://market-final-project.binaracademy.org/seller/product/110377,460,0,0
+1702967915003,472,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,312,489,10,10,https://market-final-project.binaracademy.org/seller/product/110375,472,0,0
+1702967915035,472,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,312,471,10,10,https://market-final-project.binaracademy.org/seller/product/110373,472,0,0
+1702967915040,475,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,312,475,10,10,https://market-final-project.binaracademy.org/seller/product/110374,475,0,0
+1702967915033,498,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,312,479,10,10,https://market-final-project.binaracademy.org/seller/product/110378,498,0,0
+1702967915033,519,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,660,641,10,10,https://market-final-project.binaracademy.org/seller/order/56731,519,0,0
+1702967915077,942,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,660,644,10,10,https://market-final-project.binaracademy.org/seller/order/56730,942,0,0
+1702967915437,666,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,569,1545,10,10,https://market-final-project.binaracademy.org/auth/register,666,0,0
+1702967915472,632,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,569,1572,10,10,https://market-final-project.binaracademy.org/auth/register,632,0,0
+1702967915515,590,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,569,1536,10,10,https://market-final-project.binaracademy.org/auth/register,590,0,0
+1702967915476,630,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,569,1563,10,10,https://market-final-project.binaracademy.org/auth/register,630,0,0
+1702967915531,576,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,569,1527,10,10,https://market-final-project.binaracademy.org/auth/register,576,0,0
+1702967915507,603,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,569,1554,10,10,https://market-final-project.binaracademy.org/auth/register,603,0,0
+1702967915351,778,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,312,475,10,10,https://market-final-project.binaracademy.org/seller/product/110376,778,0,0
+1702967916105,269,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,268,0,0
+1702967916111,341,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,341,0,0
+1702967916106,424,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,424,0,0
+1702967916104,504,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,504,0,0
+1702967916108,578,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,578,0,0
+1702967916107,658,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,658,0,0
+1702967915552,1297,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,312,477,10,10,https://market-final-project.binaracademy.org/seller/product/110381,1297,0,0
+1702967915427,1422,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,660,632,10,10,https://market-final-project.binaracademy.org/seller/order/56732,1422,0,0
+1702967916130,720,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,569,1572,10,10,https://market-final-project.binaracademy.org/auth/register,720,0,0
+1702967916850,780,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,780,0,0
+1702967916453,1179,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,567,1480,10,10,https://market-final-project.binaracademy.org/auth/register,1179,0,0
+1702967916795,839,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,567,1480,10,10,https://market-final-project.binaracademy.org/auth/register,839,0,0
+1702967916531,1104,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,567,1543,10,10,https://market-final-project.binaracademy.org/auth/register,1104,0,0
+1702967916374,1263,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,567,1525,10,10,https://market-final-project.binaracademy.org/auth/register,1263,0,0
+1702967916609,1028,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,567,1507,10,10,https://market-final-project.binaracademy.org/auth/register,1028,0,0
+1702967916687,951,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,567,1525,10,10,https://market-final-project.binaracademy.org/auth/register,951,0,0
+1702967916849,791,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,569,1563,10,10,https://market-final-project.binaracademy.org/auth/register,790,0,0
+1702967916020,1631,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,312,487,10,10,https://market-final-project.binaracademy.org/seller/product/110379,1631,0,0
+1702967917633,243,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,243,0,0
+1702967917639,314,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,314,0,0
+1702967917635,396,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,396,0,0
+1702967917636,563,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,563,0,0
+1702967917639,628,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,627,0,0
+1702967917638,707,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,707,0,0
+1702967917640,783,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,783,0,0
+1702967916849,1654,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,312,477,10,10,https://market-final-project.binaracademy.org/seller/product/110382,1654,0,0
+1702967917631,872,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,567,1552,10,10,https://market-final-project.binaracademy.org/auth/register,872,0,0
+1702967917652,854,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,569,1500,10,10,https://market-final-project.binaracademy.org/auth/register,854,0,0
+1702967917875,641,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,641,0,0
+1702967917952,566,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,566,0,0
+1702967918031,487,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,487,0,0
+1702967918199,322,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,322,0,0
+1702967918266,255,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,255,0,0
+1702967918344,179,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,179,0,0
+1702967918517,21,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,21,0,0
+1702967918519,22,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,22,0,0
+1702967918518,24,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,24,0,0
+1702967918522,24,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,24,0,0
+1702967918522,25,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,25,0,0
+1702967918524,23,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,23,0,0
+1702967918506,272,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,272,0,0
+1702967918503,355,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,355,0,0
+1702967918422,442,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,567,1480,10,10,https://market-final-project.binaracademy.org/auth/register,442,0,0
+1702967918503,453,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,569,1554,10,10,https://market-final-project.binaracademy.org/auth/register,453,0,0
+1702967918778,817,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,567,1561,10,10,https://market-final-project.binaracademy.org/auth/register,816,0,0
+1702967918858,737,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,737,0,0
+1702967918539,1076,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,674,7267,10,10,https://market-final-project.binaracademy.org/seller/product,1076,0,0
+1702967918547,1071,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,674,7275,10,10,https://market-final-project.binaracademy.org/seller/product,1071,0,0
+1702967918548,1071,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,674,7275,10,10,https://market-final-project.binaracademy.org/seller/product,1071,0,0
+1702967918547,1083,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,674,7251,10,10,https://market-final-project.binaracademy.org/seller/product,1083,0,0
+1702967918543,1088,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,674,7203,10,10,https://market-final-project.binaracademy.org/seller/product,1088,0,0
+1702967918542,1090,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,674,7211,10,10,https://market-final-project.binaracademy.org/seller/product,1090,0,0
+1702967919595,41,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,41,0,0
+1702967918864,914,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,914,0,0
+1702967918957,900,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,900,0,0
+1702967919595,342,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,342,0,0
+1702967919616,840,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,840,0,0
+1702967919619,837,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,837,0,0
+1702967919631,825,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,825,0,0
+1702967919620,836,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,836,0,0
+1702967919778,750,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,750,0,0
+1702967919938,594,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,594,0,0
+1702967919633,995,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,995,0,0
+1702967919857,789,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,567,1507,10,10,https://market-final-project.binaracademy.org/auth/register,789,0,0
+1702967919632,1022,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,1022,0,0
+1702967920529,2294,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,2294,0,0
+1702967920532,2296,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,2296,0,0
+1702967919636,3192,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,674,7259,10,10,https://market-final-project.binaracademy.org/seller/product,3192,0,0
+1702967920456,2998,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110383,2998,0,0
+1702967920456,3028,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110384,3028,0,0
+1702967920456,3029,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110385,3029,0,0
+1702967920456,3041,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110386,3041,0,0
+1702967920629,3068,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110387,3068,0,0
+1702967920647,3050,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,3050,0,0
+1702967920655,3582,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110388,3582,0,0
+1702967923697,549,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,549,0,0
+1702967922824,1541,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,674,7267,10,10,https://market-final-project.binaracademy.org/seller/product,1541,0,0
+1702967922829,1615,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,674,7219,10,10,https://market-final-project.binaracademy.org/seller/product,1615,0,0
+1702967922829,1616,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,1616,0,0
+1702967924246,202,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,202,0,0
+1702967923485,963,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,669,7273,10,10,https://market-final-project.binaracademy.org/seller/product/110384,963,0,0
+1702967923455,1215,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,669,7265,10,10,https://market-final-project.binaracademy.org/seller/product/110383,1215,0,0
+1702967923486,1198,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,669,7273,10,10,https://market-final-project.binaracademy.org/seller/product/110385,1198,0,0
+1702967923498,1187,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,669,7209,10,10,https://market-final-project.binaracademy.org/seller/product/110386,1187,0,0
+1702967923697,1513,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,669,7233,10,10,https://market-final-project.binaracademy.org/seller/product/110387,1513,0,0
+1702967924671,2598,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,2598,0,0
+1702967924449,2821,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,2821,0,0
+1702967924366,3750,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,3749,0,0
+1702967924445,3787,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,3787,0,0
+1702967924684,3565,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,3565,0,0
+1702967924237,4031,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,669,7249,10,10,https://market-final-project.binaracademy.org/seller/product/110388,4031,0,0
+1702967924445,3842,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110389,3842,0,0
+1702967927270,1035,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110383,1035,0,0
+1702967927271,1061,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110384,1060,0,0
+1702967928251,237,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110385,237,0,0
+1702967924686,4645,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,4645,0,0
+1702967925211,4122,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,4122,0,0
+1702967928270,1438,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,1438,0,0
+1702967924449,6381,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,674,7203,10,10,https://market-final-project.binaracademy.org/seller/product,6381,0,0
+1702967928117,2740,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110390,2740,0,0
+1702967928234,2642,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110391,2642,0,0
+1702967929335,1558,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110387,1557,0,0
+1702967929333,1564,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110386,1564,0,0
+1702967929708,1202,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110388,1202,0,45
+1702967928288,2722,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,669,7241,10,10,https://market-final-project.binaracademy.org/seller/product/110389,2722,0,0
+1702967928307,2721,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,2721,0,0
+1702967928333,2860,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,2860,0,0
+1702967930831,542,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,542,0,45
+1702967931010,389,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,389,0,34
+1702967931028,373,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,373,0,35
+1702967928489,2916,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,2916,0,0
+1702967931401,219,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110389,219,0,0
+1702967930893,810,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,810,0,35
+1702967930857,850,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,669,7209,10,10,https://market-final-project.binaracademy.org/seller/product/110390,850,0,38
+1702967931401,311,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56733,311,0,0
+1702967930876,836,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,669,7265,10,10,https://market-final-project.binaracademy.org/seller/product/110391,836,0,37
+1702967930897,817,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,817,0,48
+1702967930910,804,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,804,0,0
+1702967931194,522,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,522,0,39
+1702967931406,320,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,320,0,42
+1702967931374,353,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110392,353,0,0
+1702967931707,985,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,985,0,0
+1702967931712,984,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,984,0,0
+1702967931703,1875,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,1875,0,0
+1702967931714,1867,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,1867,0,0
+1702967931715,1868,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,1868,0,0
+1702967931717,1868,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56734,1868,0,0
+1702967931726,1865,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56735,1865,0,0
+1702967932696,912,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110391,912,0,0
+1702967932693,970,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110390,970,0,0
+1702967931712,2080,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56733,2080,0,0
+1702967933582,285,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56737,285,0,0
+1702967931620,2247,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,2247,0,0
+1702967933584,287,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56738,287,0,0
+1702967931727,2147,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,669,7273,10,10,https://market-final-project.binaracademy.org/seller/product/110392,2147,0,0
+1702967933579,300,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56736,300,0,0
+1702967933585,353,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56734,353,0,0
+1702967933875,733,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,733,0,0
+1702967933867,763,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,763,0,0
+1702967933609,1045,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1045,0,0
+1702967933872,789,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56738,789,0,0
+1702967933591,1072,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56735,1072,0,0
+1702967933867,798,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56737,798,0,0
+1702967933879,787,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56736,787,0,0
+1702967933664,1011,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1011,0,0
+1702967933792,886,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,660,641,10,10,https://market-final-project.binaracademy.org/seller/order/56733,886,0,0
+1702967934609,70,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110392,70,0,0
+1702967933939,741,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,660,647,10,10,https://market-final-project.binaracademy.org/seller/order/56734,741,0,0
+1702967934631,699,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56739,699,0,0
+1702967934655,682,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,682,0,0
+1702967934676,668,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,668,0,0
+1702967934666,768,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,660,629,10,10,https://market-final-project.binaracademy.org/seller/order/56736,768,0,0
+1702967934679,758,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,758,0,0
+1702967934665,775,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,660,632,10,10,https://market-final-project.binaracademy.org/seller/order/56737,774,0,0
+1702967934664,777,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,660,638,10,10,https://market-final-project.binaracademy.org/seller/order/56735,777,0,0
+1702967934661,780,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,660,632,10,10,https://market-final-project.binaracademy.org/seller/order/56738,780,0,0
+1702967934678,786,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,312,469,10,10,https://market-final-project.binaracademy.org/seller/product/110383,786,0,0
+1702967934680,792,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,312,469,10,10,https://market-final-project.binaracademy.org/seller/product/110384,792,0,0
+1702967935338,343,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56740,343,0,0
+1702967935344,340,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56741,340,0,0
+1702967935438,513,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,513,0,0
+1702967935331,623,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56739,623,0,0
+1702967935472,488,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,569,1563,10,10,https://market-final-project.binaracademy.org/auth/register,488,0,0
+1702967935464,500,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,569,1572,10,10,https://market-final-project.binaracademy.org/auth/register,500,0,0
+1702967935434,538,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,312,487,10,10,https://market-final-project.binaracademy.org/seller/product/110387,538,0,0
+1702967935440,538,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,312,469,10,10,https://market-final-project.binaracademy.org/seller/product/110386,537,0,0
+1702967935685,295,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56741,295,0,0
+1702967935442,543,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,312,469,10,10,https://market-final-project.binaracademy.org/seller/product/110388,543,0,0
+1702967935681,304,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56740,304,0,0
+1702967935442,547,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,312,487,10,10,https://market-final-project.binaracademy.org/seller/product/110385,547,0,0
+1702967935960,360,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,360,0,0
+1702967935965,435,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,435,0,0
+1702967935952,567,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56742,567,0,0
+1702967935979,781,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,569,1527,10,10,https://market-final-project.binaracademy.org/auth/register,781,0,0
+1702967935973,946,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,569,1500,10,10,https://market-final-project.binaracademy.org/auth/register,946,0,0
+1702967935990,933,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,569,1572,10,10,https://market-final-project.binaracademy.org/auth/register,933,0,0
+1702967936401,522,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,567,1552,10,10,https://market-final-project.binaracademy.org/auth/register,522,0,0
+1702967936331,597,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,567,1516,10,10,https://market-final-project.binaracademy.org/auth/register,597,0,0
+1702967935986,944,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,569,1554,10,10,https://market-final-project.binaracademy.org/auth/register,944,0,0
+1702967935955,1226,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,660,629,10,10,https://market-final-project.binaracademy.org/seller/order/56739,1226,0,0
+1702967936760,523,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,523,0,0
+1702967936920,442,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,442,0,0
+1702967936924,517,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,517,0,0
+1702967935980,1464,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,660,641,10,10,https://market-final-project.binaracademy.org/seller/order/56741,1464,0,0
+1702967936929,594,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,594,0,0
+1702967936924,678,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,678,0,0
+1702967936930,750,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,750,0,0
+1702967935985,1743,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,660,629,10,10,https://market-final-project.binaracademy.org/seller/order/56740,1743,0,0
+1702967937523,208,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,208,0,0
+1702967937603,131,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,131,0,0
+1702967936520,1477,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56742,1477,0,0
+1702967937731,427,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,427,0,0
+1702967937734,426,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,426,0,0
+1702967937362,800,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,567,1561,10,10,https://market-final-project.binaracademy.org/auth/register,800,0,0
+1702967937680,488,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,567,1489,10,10,https://market-final-project.binaracademy.org/auth/register,488,0,0
+1702967937441,727,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,567,1525,10,10,https://market-final-project.binaracademy.org/auth/register,727,0,0
+1702967937283,885,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,567,1561,10,10,https://market-final-project.binaracademy.org/auth/register,885,0,0
+1702967937181,1020,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,312,473,10,10,https://market-final-project.binaracademy.org/seller/product/110389,1020,0,0
+1702967938162,247,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,247,0,0
+1702967938169,392,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,392,0,0
+1702967938169,472,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,472,0,0
+1702967938169,549,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,549,0,0
+1702967938201,677,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,569,1572,10,10,https://market-final-project.binaracademy.org/auth/register,677,0,0
+1702967937728,1141,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,312,483,10,10,https://market-final-project.binaracademy.org/seller/product/110391,1141,0,0
+1702967937445,1424,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,312,479,10,10,https://market-final-project.binaracademy.org/seller/product/110390,1424,0,0
+1702967938409,483,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,483,0,0
+1702967938562,334,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,334,0,0
+1702967938642,255,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,255,0,0
+1702967938719,180,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,180,0,0
+1702967938159,742,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,674,7283,10,10,https://market-final-project.binaracademy.org/seller/product,742,0,0
+1702967938161,742,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,674,7227,10,10,https://market-final-project.binaracademy.org/seller/product,742,0,0
+1702967938893,34,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,34,0,0
+1702967938896,34,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,34,0,0
+1702967937997,934,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,660,656,10,10,https://market-final-project.binaracademy.org/seller/order/56742,934,0,0
+1702967938897,35,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,35,0,0
+1702967938899,34,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,34,0,0
+1702967938882,251,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,251,0,0
+1702967938901,1583,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,1583,0,0
+1702967938882,1602,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,569,1527,10,10,https://market-final-project.binaracademy.org/auth/register,1602,0,0
+1702967938903,1581,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,1581,0,0
+1702967938882,1602,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,569,1536,10,10,https://market-final-project.binaracademy.org/auth/register,1602,0,0
+1702967940484,304,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,304,0,0
+1702967940484,381,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,381,0,0
+1702967938927,1943,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,674,7243,10,10,https://market-final-project.binaracademy.org/seller/product,1943,0,0
+1702967939134,1742,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,567,1516,10,10,https://market-final-project.binaracademy.org/auth/register,1742,0,0
+1702967938931,4063,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,312,489,10,10,https://market-final-project.binaracademy.org/seller/product/110392,4063,0,0
+1702967938931,4071,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,674,7203,10,10,https://market-final-project.binaracademy.org/seller/product,4071,0,0
+1702967940484,2530,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110393,2530,0,0
+1702967938933,4087,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,674,7251,10,10,https://market-final-project.binaracademy.org/seller/product,4087,0,0
+1702967938933,4090,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,674,7203,10,10,https://market-final-project.binaracademy.org/seller/product,4090,0,0
+1702967940484,2585,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110394,2585,0,0
+1702967940876,2339,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,2339,0,0
+1702967943002,462,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,462,0,0
+1702967940866,2599,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,567,1561,10,10,https://market-final-project.binaracademy.org/auth/register,2599,0,0
+1702967940788,2679,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,567,1498,10,10,https://market-final-project.binaracademy.org/auth/register,2679,0,0
+1702967942995,472,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,569,1518,10,10,https://market-final-project.binaracademy.org/auth/register,472,0,0
+1702967943215,258,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,258,0,0
+1702967943465,241,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,241,0,0
+1702967943021,688,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,688,0,0
+1702967940870,2840,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,2840,0,0
+1702967943023,689,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,689,0,0
+1702967943473,239,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,239,0,0
+1702967943015,798,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,669,7217,10,10,https://market-final-project.binaracademy.org/seller/product/110393,798,0,0
+1702967943467,345,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,345,0,0
+1702967943467,421,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,421,0,0
+1702967943069,977,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,669,7249,10,10,https://market-final-project.binaracademy.org/seller/product/110394,977,0,0
+1702967943464,584,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110396,583,0,0
+1702967943706,364,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,363,0,0
+1702967943889,1202,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,1202,0,0
+1702967944046,1056,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,1056,0,0
+1702967943813,1711,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,1711,0,0
+1702967944070,1455,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,1455,0,0
+1702967943813,1712,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,567,1570,10,10,https://market-final-project.binaracademy.org/auth/register,1712,0,0
+1702967943709,2210,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110397,2209,0,0
+1702967943710,2222,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110395,2222,0,0
+1702967943712,2221,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110398,2221,0,0
+1702967945091,907,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,907,0,0
+1702967943712,2296,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,674,7219,10,10,https://market-final-project.binaracademy.org/seller/product,2296,0,0
+1702967945102,1001,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110394,1001,0,0
+1702967945525,661,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,661,0,0
+1702967944048,2142,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,669,7265,10,10,https://market-final-project.binaracademy.org/seller/product/110396,2142,0,0
+1702967945525,666,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110393,666,0,0
+1702967946187,1097,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,1097,0,0
+1702967945525,1860,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,674,7259,10,10,https://market-final-project.binaracademy.org/seller/product,1860,0,0
+1702967947284,133,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,133,0,0
+1702967946008,1410,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,1410,0,0
+1702967946190,2273,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,2273,0,0
+1702967945919,3403,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,669,7265,10,10,https://market-final-project.binaracademy.org/seller/product/110397,3403,0,0
+1702967945933,3390,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,669,7217,10,10,https://market-final-project.binaracademy.org/seller/product/110395,3390,0,0
+1702967945934,3389,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,669,7273,10,10,https://market-final-project.binaracademy.org/seller/product/110398,3389,0,0
+1702967945998,3326,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,674,7251,10,10,https://market-final-project.binaracademy.org/seller/product,3326,0,0
+1702967946108,3253,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,3253,0,0
+1702967948463,897,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110396,897,0,0
+1702967946191,3170,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,3170,0,0
+1702967947385,2159,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,2159,0,0
+1702967947419,4577,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110399,4577,0,0
+1702967949323,7410,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,7410,0,0
+1702967947418,9316,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,674,7219,10,10,https://market-final-project.binaracademy.org/seller/product,9316,0,0
+1702967956734,166,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110395,166,0,0
+1702967949360,7621,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,7621,0,0
+1702967949361,7640,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,7640,0,0
+1702967949323,7697,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,7697,0,0
+1702967949323,7750,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,7750,0,0
+1702967949544,7529,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110400,7529,0,0
+1702967949321,8671,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,8671,0,0
+1702967956734,1261,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,1261,0,0
+1702967957021,1495,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110398,1495,0,0
+1702967956981,3790,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56744,3790,0,0
+1702967957002,3769,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56743,3769,0,0
+1702967951996,8777,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,669,7217,10,10,https://market-final-project.binaracademy.org/seller/product/110399,8777,0,0
+1702967949360,11413,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,11413,0,0
+1702967957994,2995,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110397,2995,0,0
+1702967957074,3960,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110401,3960,0,0
+1702967960774,681,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,681,0,0
+1702967960774,700,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,700,0,0
+1702967957997,3500,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110402,3500,0,0
+1702967957074,4384,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,669,7281,10,10,https://market-final-project.binaracademy.org/seller/product/110400,4384,0,0
+1702967956900,4556,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,4556,0,0
+1702967960773,733,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56744,733,0,0
+1702967960773,738,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56743,738,0,0
+1702967961455,60,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110399,60,0,0
+1702967961002,512,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,512,0,0
+1702967958518,2997,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,2997,0,0
+1702967961504,1743,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56745,1743,0,0
+1702967961036,4723,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,669,7289,10,10,https://market-final-project.binaracademy.org/seller/product/110401,4723,0,0
+1702967961504,4261,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,4261,0,0
+1702967961504,4261,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,4261,0,0
+1702967961515,4456,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,4456,0,0
+1702967961515,4469,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,4469,0,0
+1702967965764,296,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110400,296,0,0
+1702967965759,2485,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,2485,0,0
+1702967961504,7756,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,669,7273,10,10,https://market-final-project.binaracademy.org/seller/product/110402,7756,0,0
+1702967965764,3498,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56746,3498,0,0
+1702967965970,3295,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56747,3295,0,0
+1702967965984,3281,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56748,3281,0,0
+1702967961507,7959,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,660,641,10,10,https://market-final-project.binaracademy.org/seller/order/56744,7959,0,0
+1702967961515,7951,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,7951,0,0
+1702967961512,7960,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,660,647,10,10,https://market-final-project.binaracademy.org/seller/order/56743,7960,0,0
+1702967963247,6224,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56745,6224,0,0
+1702967968246,1232,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110401,1232,0,0
+1702967969260,1972,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,1972,0,0
+1702967969466,2544,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,2544,0,0
+1702967966060,5958,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,5958,0,0
+1702967971233,964,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110402,964,0,0
+1702967969264,2961,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56746,2961,0,0
+1702967969267,2958,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56747,2958,0,0
+1702967969267,2967,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56748,2967,0,0
+1702967969466,3516,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,312,481,10,10,https://market-final-project.binaracademy.org/seller/product/110394,3516,0,0
+1702967972010,978,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56749,978,0,0
+1702967969478,3510,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,3510,0,0
+1702967972020,982,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,981,0,0
+1702967969472,3535,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,660,629,10,10,https://market-final-project.binaracademy.org/seller/order/56745,3535,0,0
+1702967969472,3545,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,312,471,10,10,https://market-final-project.binaracademy.org/seller/product/110393,3545,0,0
+1702967972225,1267,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,660,629,10,10,https://market-final-project.binaracademy.org/seller/order/56747,1267,0,0
+1702967972983,509,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,569,1491,10,10,https://market-final-project.binaracademy.org/auth/register,509,0,0
+1702967972235,1257,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,660,629,10,10,https://market-final-project.binaracademy.org/seller/order/56748,1257,0,0
+1702967972198,1295,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,1295,0,0
+1702967972225,1270,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,660,644,10,10,https://market-final-project.binaracademy.org/seller/order/56746,1270,0,0
+1702967972989,705,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,705,0,0
+1702967973492,748,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,748,0,0
+1702967973018,1231,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,569,1482,10,10,https://market-final-project.binaracademy.org/auth/register,1231,0,0
+1702967973002,1247,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56750,1247,0,0
+1702967972989,1262,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56749,1262,0,0
+1702967973493,955,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,955,0,0
+1702967974249,752,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,752,0,0
+1702967973492,1703,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,312,477,10,10,https://market-final-project.binaracademy.org/seller/product/110398,1703,0,0
+1702967973694,1505,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56751,1505,0,0
+1702967974241,959,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,567,1534,10,10,https://market-final-project.binaracademy.org/auth/register,959,0,0
+1702967974448,757,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56752,757,0,0
+1702967973008,2203,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,312,473,10,10,https://market-final-project.binaracademy.org/seller/product/110396,2203,0,0
+1702967973495,1716,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,312,489,10,10,https://market-final-project.binaracademy.org/seller/product/110395,1716,0,0
+1702967973492,1721,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,312,471,10,10,https://market-final-project.binaracademy.org/seller/product/110397,1721,0,0
+1702967974250,977,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56750,977,0,0
+1702967974251,982,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,660,656,10,10,https://market-final-project.binaracademy.org/seller/order/56749,982,0,0
+1702967975201,1301,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,1301,0,0
+1702967975211,2018,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,569,1518,10,10,https://market-final-project.binaracademy.org/auth/register,2018,0,0
+1702967975196,2034,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,569,1572,10,10,https://market-final-project.binaracademy.org/auth/register,2034,0,0
+1702967975002,2231,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,567,1525,10,10,https://market-final-project.binaracademy.org/auth/register,2231,0,0
+1702967975211,2025,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,569,1536,10,10,https://market-final-project.binaracademy.org/auth/register,2025,0,0
+1702967975214,2023,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,569,1563,10,10,https://market-final-project.binaracademy.org/auth/register,2023,0,0
+1702967976503,943,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,943,0,0
+1702967975199,2251,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56751,2251,0,0
+1702967975205,2252,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56752,2252,0,0
+1702967977230,508,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,508,0,0
+1702967977231,963,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,963,0,0
+1702967977234,1227,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,1227,0,0
+1702967977237,1491,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,1491,0,0
+1702967977238,1757,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,1757,0,0
+1702967977446,1552,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,1552,0,0
+1702967975233,3768,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,312,485,10,10,https://market-final-project.binaracademy.org/seller/product/110399,3768,0,0
+1702967975227,3774,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,660,641,10,10,https://market-final-project.binaracademy.org/seller/order/56750,3774,0,0
+1702967978460,772,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,772,0,0
+1702967979232,1726,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,1726,0,0
+1702967977738,3222,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,567,1498,10,10,https://market-final-project.binaracademy.org/auth/register,3222,0,0
+1702967978995,2229,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,567,1507,10,10,https://market-final-project.binaracademy.org/auth/register,2229,0,0
+1702967978728,2497,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,567,1525,10,10,https://market-final-project.binaracademy.org/auth/register,2497,0,0
+1702967979000,2232,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,569,1536,10,10,https://market-final-project.binaracademy.org/auth/register,2232,0,0
+1702967978195,3038,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,567,1534,10,10,https://market-final-project.binaracademy.org/auth/register,3038,0,0
+1702967977450,3805,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,660,650,10,10,https://market-final-project.binaracademy.org/seller/order/56751,3805,0,0
+1702967977457,3988,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,660,653,10,10,https://market-final-project.binaracademy.org/seller/order/56752,3988,0,0
+1702967980959,758,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,758,0,0
+1702967978998,2723,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,674,7251,10,10,https://market-final-project.binaracademy.org/seller/product,2723,0,0
+1702967981232,1214,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,1214,0,0
+1702967981226,1490,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,1490,0,0
+1702967981224,1761,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,1761,0,0
+1702967981233,2033,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,2033,0,0
+1702967979000,4444,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,312,481,10,10,https://market-final-project.binaracademy.org/seller/product/110400,4443,0,0
+1702967980958,4421,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,674,7259,10,10,https://market-final-project.binaracademy.org/seller/product,4421,0,0
+1702967981717,3779,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,3779,0,0
+1702967982716,3104,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,3104,0,0
+1702967982447,3548,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,567,1489,10,10,https://market-final-project.binaracademy.org/auth/register,3548,0,0
+1702967982986,3014,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,3014,0,0
+1702967981722,4279,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,4279,0,0
+1702967983268,2738,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,2738,0,0
+1702967983445,2896,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,569,1482,10,10,https://market-final-project.binaracademy.org/auth/register,2896,0,0
+1702967981254,6740,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,312,475,10,10,https://market-final-project.binaracademy.org/seller/product/110401,6740,0,0
+1702967985498,2499,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,2499,0,0
+1702967981445,7060,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,312,479,10,10,https://market-final-project.binaracademy.org/seller/product/110402,7060,0,0
+1702967985380,3125,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,3125,0,0
+1702967986000,2511,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,2511,0,0
+1702967986006,2505,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,2505,0,0
+1702967985822,2706,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,2706,0,0
+1702967986341,2628,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,2628,0,0
+1702967985997,3505,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,3505,0,0
+1702967987996,2235,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,569,1518,10,10,https://market-final-project.binaracademy.org/auth/register,2235,0,0
+1702967988506,2698,POST Create Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,569,1482,10,10,https://market-final-project.binaracademy.org/auth/register,2698,0,0
+1702967986002,5206,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110403,5206,0,0
+1702967988505,3242,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110404,3242,0,0
+1702967989501,2976,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,2975,0,0
+1702967988969,3521,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,567,1525,10,10,https://market-final-project.binaracademy.org/auth/register,3521,0,0
+1702967987998,4494,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,674,7267,10,10,https://market-final-project.binaracademy.org/seller/product,4494,0,0
+1702967991205,1756,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,1756,0,88
+1702967990231,2998,POST Sign In Users - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,2998,0,0
+1702967988511,4723,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,674,7235,10,10,https://market-final-project.binaracademy.org/seller/product,4723,0,0
+1702967988511,4723,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,674,7219,10,10,https://market-final-project.binaracademy.org/seller/product,4723,0,0
+1702967988527,11236,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,674,7243,10,10,https://market-final-project.binaracademy.org/seller/product,11236,0,0
+1702967992477,7322,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,7322,0,220
+1702967992491,7988,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,7988,0,227
+1702967992492,11503,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,11503,0,225
+1702967993236,11014,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,11014,0,210
+1702967993231,11019,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,567,1480,10,10,https://market-final-project.binaracademy.org/auth/register,11019,0,215
+1702967991207,13042,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,669,7249,10,10,https://market-final-project.binaracademy.org/seller/product/110403,13042,0,86
+1702967991747,12502,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,669,7233,10,10,https://market-final-project.binaracademy.org/seller/product/110404,12502,0,227
+1702967993236,11014,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,11014,0,210
+1702968000479,3770,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,3770,0,0
+1702967992962,11287,POST Create Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,567,1525,10,10,https://market-final-project.binaracademy.org/auth/register,11287,0,0
+1702968004250,466,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,466,0,0
+1702968004250,473,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,473,0,0
+1702968004250,476,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,476,0,0
+1702968004251,4723,POST Sign In Users - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,488,269,10,10,https://market-final-project.binaracademy.org/auth/login,4723,0,0
+1702967999764,9213,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,9213,0,50
+1702968004251,4730,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,4730,0,0
+1702968003996,4991,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110405,4991,0,0
+1702968004250,4747,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110407,4747,0,0
+1702968004250,4753,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110406,4753,0,0
+1702967999799,9203,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,674,7211,10,10,https://market-final-project.binaracademy.org/seller/product,9203,0,0
+1702968004716,4481,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,4481,0,0
+1702968004723,4476,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110404,4476,0,0
+1702968004726,4473,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110403,4473,0,0
+1702968008974,1731,GET Categories,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,2967,186,10,10,https://market-final-project.binaracademy.org/seller/category,1731,0,0
+1702968008978,3468,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110408,3468,0,0
+1702968009196,3261,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,3261,0,0
+1702968009003,3454,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,3454,0,0
+1702968010706,1752,GET Specific Categories,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,374,188,10,10,https://market-final-project.binaracademy.org/seller/category/5,1752,0,0
+1702968008997,4456,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,669,7233,10,10,https://market-final-project.binaracademy.org/seller/product/110407,4456,0,0
+1702968009002,5003,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,669,7225,10,10,https://market-final-project.binaracademy.org/seller/product/110406,5003,0,0
+1702968008981,7003,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,674,7259,10,10,https://market-final-project.binaracademy.org/seller/product,7003,0,0
+1702968008986,6999,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,669,7241,10,10,https://market-final-project.binaracademy.org/seller/product/110405,6999,0,0
+1702968013454,6790,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,6790,0,0
+1702968012458,7841,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110409,7841,0,0
+1702968009199,11156,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-4,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,11156,0,0
+1702968009199,11159,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-2,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,11159,0,0
+1702968020244,205,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110407,205,0,0
+1702968015986,9494,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,9494,0,0
+1702968015987,9500,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,9500,0,0
+1702968014006,12005,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,12005,0,0
+1702968012447,15037,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,669,7273,10,10,https://market-final-project.binaracademy.org/seller/product/110408,15037,0,0
+1702968012458,15026,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,674,7283,10,10,https://market-final-project.binaracademy.org/seller/product,15026,0,0
+1702968012458,15026,POST Create Product - Seller,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,674,7251,10,10,https://market-final-project.binaracademy.org/seller/product,15026,0,0
+1702968020360,7137,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,7137,0,0
+1702968020357,7152,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,7152,0,0
+1702968025488,2210,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110405,2210,0,0
+1702968026011,1691,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110406,1691,0,0
+1702968027485,3786,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,3786,0,0
+1702968027485,3971,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,3971,0,0
+1702968027497,3960,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56754,3960,0,0
+1702968020301,11159,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,669,7217,10,10,https://market-final-project.binaracademy.org/seller/product/110409,11159,0,0
+1702968027509,3951,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56753,3951,0,0
+1702968027485,4246,GET List Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,715,344,10,10,https://market-final-project.binaracademy.org/seller/product,4246,0,0
+1702968025481,6250,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110410,6250,0,0
+1702968031270,683,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110408,683,0,0
+1702968031459,2051,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,2051,0,0
+1702968020449,13064,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-3,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,13064,0,0
+1702968031455,2789,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110411,2789,0,0
+1702968031730,2521,GET Specific Product -Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,713,351,10,10,https://market-final-project.binaracademy.org/seller/product/110412,2521,0,0
+1702968027698,6574,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-9,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,6574,0,0
+1702968027703,6586,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-1,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,6586,0,0
+1702968031457,2834,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56754,2834,0,0
+1702968031459,2832,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56753,2832,0,0
+1702968033511,783,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110409,783,0,0
+1702968031730,2987,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,669,7233,10,10,https://market-final-project.binaracademy.org/seller/product/110410,2987,0,0
+1702968033513,2004,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,2004,0,0
+1702968034273,1257,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,1257,0,0
+1702968034290,1688,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,1688,0,0
+1702968034728,3010,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,3010,0,0
+1702968034245,3500,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,669,7257,10,10,https://market-final-project.binaracademy.org/seller/product/110411,3500,0,0
+1702968035518,2236,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56755,2236,0,0
+1702968035531,2227,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56756,2226,0,0
+1702968031954,5803,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-10,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,5802,0,0
+1702968034253,3506,PUT Update Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,669,7281,10,10,https://market-final-project.binaracademy.org/seller/product/110412,3506,0,0
+1702968037738,2208,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110410,2208,0,0
+1702968037746,2208,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,2208,0,0
+1702968034294,5661,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-7,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,5661,0,0
+1702968035979,3977,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56757,3977,0,0
+1702968034292,5666,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,660,644,10,10,https://market-final-project.binaracademy.org/seller/order/56754,5666,0,0
+1702968034292,5671,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,660,632,10,10,https://market-final-project.binaracademy.org/seller/order/56753,5671,0,0
+1702968037754,3722,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56755,3722,0,0
+1702968037759,5001,GET List Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,4706,398,10,10,https://market-final-project.binaracademy.org/buyer/product?status=&category_id=1&search=kucing&page=1&per_page=10,5001,0,0
+1702968037758,5009,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,5009,0,0
+1702968037758,5015,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56756,5015,0,0
+1702968039954,3053,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110411,3053,0,0
+1702968042761,307,GET List Specific Product - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,865,350,10,10,https://market-final-project.binaracademy.org/buyer/product/110412,307,0,0
+1702968039946,3181,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-5,text,true,,671,415,10,10,https://market-final-project.binaracademy.org/buyer/order,3181,0,0
+1702968042768,428,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,1178,347,10,10,https://market-final-project.binaracademy.org/buyer/order/56758,428,0,0
+1702968039955,3242,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,1180,341,10,10,https://market-final-project.binaracademy.org/buyer/order,3242,0,0
+1702968039957,3251,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,663,392,10,10,https://market-final-project.binaracademy.org/buyer/order/56757,3251,0,0
+1702968039958,3256,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-2,text,true,,312,481,10,10,https://market-final-project.binaracademy.org/seller/product/110403,3256,0,0
+1702968039963,3338,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-4,text,true,,312,485,9,9,https://market-final-project.binaracademy.org/seller/product/110404,3338,0,0
+1702968042773,1170,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,660,656,8,8,https://market-final-project.binaracademy.org/seller/order/56756,1170,0,0
+1702968041476,2470,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,660,635,8,8,https://market-final-project.binaracademy.org/seller/order/56755,2470,0,0
+1702968043198,755,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,1178,347,8,8,https://market-final-project.binaracademy.org/buyer/order/56759,755,0,0
+1702968043128,825,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,1180,341,8,8,https://market-final-project.binaracademy.org/buyer/order,825,0,0
+1702968043069,895,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-6,text,true,,671,415,8,8,https://market-final-project.binaracademy.org/buyer/order,895,0,0
+1702968043196,780,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,663,392,8,8,https://market-final-project.binaracademy.org/buyer/order/56758,780,0,0
+1702968043209,774,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,660,638,8,8,https://market-final-project.binaracademy.org/seller/order/56757,774,0,0
+1702968043008,980,POST Create Order - Buyer,201,Created,10 Users -1 Sec - 5 Loop 1-8,text,true,,671,415,8,8,https://market-final-project.binaracademy.org/buyer/order,980,0,0
+1702968043954,245,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,1178,347,8,8,https://market-final-project.binaracademy.org/buyer/order/56760,245,0,0
+1702968043954,346,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,663,392,8,8,https://market-final-project.binaracademy.org/buyer/order/56759,346,0,0
+1702968043989,319,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,1180,341,8,8,https://market-final-project.binaracademy.org/buyer/order,319,0,0
+1702968043965,359,GET Created Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,1180,341,8,8,https://market-final-project.binaracademy.org/buyer/order,359,0,0
+1702968043944,411,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-9,text,true,,312,485,8,8,https://market-final-project.binaracademy.org/seller/product/110405,411,0,0
+1702968043983,417,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-1,text,true,,312,477,7,7,https://market-final-project.binaracademy.org/seller/product/110406,417,0,0
+1702968043946,450,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-3,text,true,,312,479,7,7,https://market-final-project.binaracademy.org/seller/product/110407,450,0,0
+1702968043976,469,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,660,635,5,5,https://market-final-project.binaracademy.org/seller/order/56758,469,0,0
+1702968044200,258,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,663,392,5,5,https://market-final-project.binaracademy.org/buyer/order/56760,258,0,0
+1702968044309,159,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,1178,347,5,5,https://market-final-project.binaracademy.org/buyer/order/56762,159,0,0
+1702968044301,183,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,660,632,5,5,https://market-final-project.binaracademy.org/seller/order/56759,183,0,0
+1702968044324,173,GET Created Order by ID - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,1178,347,5,5,https://market-final-project.binaracademy.org/buyer/order/56761,173,0,0
+1702968044468,242,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,663,392,5,5,https://market-final-project.binaracademy.org/buyer/order/56762,242,0,0
+1702968044458,259,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,660,659,5,5,https://market-final-project.binaracademy.org/seller/order/56760,259,0,0
+1702968044445,278,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-10,text,true,,312,485,5,5,https://market-final-project.binaracademy.org/seller/product/110408,278,0,0
+1702968044497,226,PUT Update Order - Buyer,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,663,392,5,5,https://market-final-project.binaracademy.org/buyer/order/56761,226,0,0
+1702968044485,246,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-7,text,true,,312,483,4,4,https://market-final-project.binaracademy.org/seller/product/110409,246,0,0
+1702968044710,150,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,660,629,3,3,https://market-final-project.binaracademy.org/seller/order/56762,150,0,0
+1702968044718,240,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-5,text,true,,312,469,3,3,https://market-final-project.binaracademy.org/seller/product/110410,240,0,0
+1702968044724,236,PATCH Update Order - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,660,653,2,2,https://market-final-project.binaracademy.org/seller/order/56761,236,0,0
+1702968044861,187,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-8,text,true,,312,485,2,2,https://market-final-project.binaracademy.org/seller/product/110411,187,0,0
+1702968044961,102,DELETE Delete Product - Seller,200,OK,10 Users -1 Sec - 5 Loop 1-6,text,true,,312,479,1,1,https://market-final-project.binaracademy.org/seller/product/110412,102,0,0
